@@ -1,4 +1,4 @@
-### Which Debts Are Worth the Bank's Effort
+### Which Debts Are Worth the Bank's Effort?
 
 Welcome! This notebook examines how different strategies used by a bank to recover debts work. It uses a statistical method to find out if the extra money spent on higher recovery efforts is worth it. The analysis involves looking at the data, using statistical models, and creating visuals to clearly show the financial impact of different recovery levels.
 
